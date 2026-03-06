@@ -10,4 +10,5 @@ public class BasicLearnApplication {
 		SpringApplication.run(BasicLearnApplication.class, args);
 	}
 
+
 }
